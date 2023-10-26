@@ -1,3 +1,3 @@
 - 👋 Hi, my name is Pedro
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and C#
